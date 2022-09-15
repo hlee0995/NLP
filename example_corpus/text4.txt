@@ -1,0 +1,10 @@
+3.2 Fine-grained Selection of Words
+• Next, let's look at the long words of a text; perhaps these will
+be more characteristic and informative. For this we adapt
+some notation from set theory. We would like to find the
+words from the vocabulary of the text that are more than 15
+characters long. Let's call this property P, so that P(w) is true
+if and only if w is more than 15 characters long. Now we can
+express the words of interest using mathematical set notation
+as shown in (1a). This means "the set of all w such that w is
+an element of V (the vocabulary) and w has property P"

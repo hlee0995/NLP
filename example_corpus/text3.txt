@@ -1,0 +1,6 @@
+If the frequent words don't help us, how about the words that occur once only,
+the so-called hapaxes? View them by typing fdist1.hapaxes(). This list contains
+lexicographer, cetological, contraband, expostulations, and about 9,000 others. It
+seems that there are too many rare words, and without seeing the context we
+probably can't guess what half of the hapaxes mean in any case! Since neither
+frequent nor infrequent words help, we need to try something else.
