@@ -1,0 +1,16 @@
+Assumptions for linear regression.
+
+1, Linear relationship.
+
+here exists a linear relationship between the independent variable, x, and the dependent variable, y.  It is also important to check for outliers since linear regression is sensitive to outlier effects.  The linearity assumption can best be tested with scatter plots, the following two examples depict two cases, where no and little linearity is present. 
+
+What to do if this assumption is violated
+
+•	Multivariate normality.
+Secondly, the linear regression analysis requires all variables to be multivariate (다변수의) normal.  This assumption can best be checked with a histogram or a Q-Q-Plot.  Normality can be checked with a goodness of fit test, e.g., the Kolmogorov-Smirnov test.  When the data is not normally distributed a non-linear transformation (e.g., log-transformation) might fix this issue.
+•	No or little multicollinearity.
+•	No auto-correlation.
+
+•	Homoscedasticity.
+The residuals have constant variance at every level of x.
+
